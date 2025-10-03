@@ -17,10 +17,7 @@
 搭建NiN、GoogLeNet和BN层：
 - 搭建对fashion-mnist数据集进行分类的NiN模型
 - 搭建对fashion-mnist数据集进行分类的GoogLeNet模型
-
-三、实验要求
-1.对两个模型进行修改，在网络适当位置添加批量归一化层
-2.在实验报告中附程序、并粘贴程序运行结果截图(含每个层输出形状)
+- 要求在网络适当位置添加批量归一化BN层
 
 ## 实验四 ResNet和DenseNet的实现
 搭建ResNet和DenseNet网路模型：
